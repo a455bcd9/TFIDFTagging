@@ -2,111 +2,106 @@
 <TEXTE_JURI_JUDI>
 <META>
 <META_COMMUN>
-<ID>JURITEXT000017898476</ID>
+<ID>JURITEXT000030078613</ID>
 <ANCIEN_ID/>
 <ORIGINE>JURI</ORIGINE>
-<URL>texte/juri/judi/JURI/TEXT/00/00/17/89/84/JURITEXT000017898476.xml</URL>
+<URL>texte/juri/judi/JURI/TEXT/00/00/30/07/86/JURITEXT000030078613.xml</URL>
 <NATURE>ARRET</NATURE>
 </META_COMMUN>
 <META_SPEC>
 <META_JURI>
-<TITRE>Cour de cassation, criminelle, Commission nationale de réparation des détentions, 18 juin 2007, 07-CR.D01, Publié au bulletin</TITRE>
-<DATE_DEC>2007-06-18</DATE_DEC>
+<TITRE>Cour de cassation, criminelle, Chambre criminelle, 6 janvier 2015, 13-87.652, Publié au bulletin</TITRE>
+<DATE_DEC>2015-01-06</DATE_DEC>
 <JURIDICTION>Cour de cassation</JURIDICTION>
-<NUMERO>07CRD001</NUMERO>
-<SOLUTION>Infirmation partielle</SOLUTION>
+<NUMERO>C1507306</NUMERO>
+<SOLUTION>Rejet</SOLUTION>
 </META_JURI>
 <META_JURI_JUDI>
 <NUMEROS_AFFAIRES>
-<NUMERO_AFFAIRE>07-CRD01</NUMERO_AFFAIRE>
+<NUMERO_AFFAIRE>13-87652</NUMERO_AFFAIRE>
 </NUMEROS_AFFAIRES>
-<PUBLI_BULL publie="oui">Bulletin criminel, Commission nationale de réparation des détentions, N° 5 p. 15</PUBLI_BULL>
-<FORMATION>COMMISSION_REPARATION_DETENTION</FORMATION>
+<PUBLI_BULL publie="oui">Bulletin criminel 2015, n° 6</PUBLI_BULL>
+<FORMATION>CHAMBRE_CRIMINELLE</FORMATION>
 
-<FORM_DEC_ATT>Cour d'appel de Bordeaux</FORM_DEC_ATT>
-<DATE_DEC_ATT>2006-11-28</DATE_DEC_ATT>
+<FORM_DEC_ATT>Cour d'appel de Metz</FORM_DEC_ATT>
+<DATE_DEC_ATT>2013-09-20</DATE_DEC_ATT>
 <SIEGE_APPEL/>
 <JURI_PREM/>
 <LIEU_PREM/>
 <DEMANDEUR/>
 <DEFENDEUR/>
-<PRESIDENT>M. Gueudet</PRESIDENT>
-<AVOCAT_GL>M. Charpenel</AVOCAT_GL>
-<AVOCATS>Me David, Me Couturier-Heller</AVOCATS>
-<RAPPORTEUR>Mme Nési</RAPPORTEUR>
+<PRESIDENT>M. Guérin </PRESIDENT>
+<AVOCAT_GL>M. Lagauche</AVOCAT_GL>
+<AVOCATS>SCP Thouin-Palat et Boucard</AVOCATS>
+<RAPPORTEUR>M. Monfort</RAPPORTEUR>
+<ECLI>ECLI:FR:CCASS:2015:CR07306</ECLI>
 </META_JURI_JUDI>
 </META_SPEC>
 </META>
 <TEXTE>
 <BLOC_TEXTUEL>
 <CONTENU>
-<p>COUR DE CASSATION </p>
-<p>07 CRD 001 </p>
-<p>
-Audience publique du 21 mai 2007 Prononcé au 18 juin 2007 </p>
-<p>La commission nationale de réparation des détentions instituée par l'article 149-3 du code de procédure pénale, composée lors des débats de M. Gueudet, président, Mme Nési, Mme Gorce, conseillers référendaires, en présence de M. Charpenel, avocat général et avec l'assistance de Mme Bureau, greffier, a rendu la décision suivante : </p>
-<p>INFIRMATION PARTIELLE ET REJET des recours formés par l'agent judiciaire du Trésor, M. Kamel X..., contre la décision du premier président de la cour d'appel de Bordeaux en date du 28 novembre 2006 qui a déclaré irrecevable la requête présentée par M. Kamel X.... </p>
-<p>Les débats ayant eu lieu en audience publique le 21 mai 2007 le demandeur et son avocat ne s'y étant pas opposé ; </p>
-<p>Vu les dossiers de la procédure de réparation et de la procédure pénale ; </p>
-<p>Vu les conclusions de Me David, avocat au Barreau de Toulouse, représentant M. X... ; </p>
-<p>Vu les conclusions de l'agent judiciaire du Trésor ; </p>
-<p>Vu les conclusions de M. le procureur général près la Cour de cassation ; </p>
-<p>Vu les conclusions en réponse de Me David ; </p>
-<p>Vu la notification de la date de l'audience, par lettre recommandée avec demande d'avis de réception, au demandeur, à son avocat, à l'agent judiciaire du Trésor et à son avocat, un mois avant l'audience ; </p>
-<p>Sur le rapport de Mme le conseiller Nési, les observations de Me David, avocat assistant M. X..., celles de M. X... comparant et de Me Couturier-Heller, avocat représentant l'agent judiciaire du Trésor, les conclusions de M. l'avocat général Charpenel, le demandeur ayant eu la parole en dernier ; </p>
-<p>Après en avoir délibéré conformément à la loi, la décision étant rendue en audience publique ; </p>
-<p>LA COMMISSION NATIONALE DE REPARATION DES DETENTIONS, </p>
-<p>Attendu que, par décision du 28 novembre 2006, le premier président de la cour d'appel de Bordeaux a déclaré irrecevable la requête présentée par M. X... pour obtenir l'indemnisation de son préjudice moral et matériel à raison d'une détention de quinze mois et trois jours, effectuée du 22 mars 2004 au 24 juin 2005 pour des faits ayant donné lieu à une relaxe partielle ; </p>
-<p>Attendu que M. X... et l'agent judiciaire du Trésor ont régulièrement formé un recours contre cette décision ; que l'agent judiciaire du Trésor s'est désisté de son recours le 26 janvier 2007 ; </p>
-<p>Attendu que M. X... conclut à la recevabilité de sa requête et à l'allocation des sommes de 10 000 euros et 30 000 euros en réparation de son préjudice matériel et moral ; </p>
-<p>Attendu que l'agent judiciaire sollicite le rejet du recours ; </p>
-<p>Attendu que l'avocat général conclut d'abord à la recevabilité de la requête pour la durée d'incarcération excédant la période de détention provisoire autorisée pour le délit pour lequel l'intéressé a été condamné, ensuite à une large minoration de la somme réclamée au titre du préjudice moral et enfin au rejet de la demande du chef du préjudice matériel ; </p>
-<p>Sur la recevabilité de la requête : </p>
-<p>Attendu qu'il ressort des pièces du dossier pénal que M. X... a été mis en examen, puis placé et maintenu en détention provisoire des chefs de vols aggravés par deux circonstances ; que, par jugement du tribunal correctionnel du 24 juin 2005 rectifié par jugement du 17 janvier 2006 et devenu définitif, il a été relaxé pour une partie des faits et condamné, après requalification, à la peine de trois mois d'emprisonnement pour recel de bien provenant d'un vol aggravé par deux circonstances ; </p>
-<p>Attendu que pour déclarer la requête en indemnisation irrecevable, le premier président a retenu que le recel et le vol aggravé par deux circonstances étant chacun punis d'une peine de cinq ans d'emprisonnement, la déclaration de culpabilité était fondée sur des faits autorisant la détention provisoire et sa prolongation, la peine encourue étant égale ou supérieure à trois ans d'emprisonnement ; </p>
-<p>Attendu cependant que lorsqu'un demandeur, placé en détention provisoire du chef de plusieurs infractions, ne bénéficie d'une décision de non-lieu, de relaxe ou d'acquittement que pour certaines d'entre elles, la compatibilité entre les infractions dont il a été déclaré coupable et la détention provisoire subie s'apprécie en prenant en compte la durée maximale de la détention provisoire que la loi autorise pour l'infraction retenue ; </p>
-<p>Attendu que le délit de recel de vol aggravé dont M. X... a été reconnu coupable après requalification d'un des délits expressément visé au mandat de dépôt, puni d'une peine de sept ans d'emprisonnement en application de l'article 321-4 du code pénal, est susceptible à lui seul de fonder la mesure de détention provisoire, mais seulement à concurrence d'une période d'un an, selon l'article 145-1 du code de procédure pénale ; </p>
-<p>Qu'en conséquence la requête doit être déclarée recevable pour l'indemnisation de la période de détention excédant cette durée, soit pour une période de quatre-vingt treize jours ; </p>
-<p>Sur la réparation : </p>
-<p>Vu les articles 149 à 150 du code de procédure pénale ; </p>
-<p>Attendu que l'indemnité doit réparer intégralement le préjudice personnel, moral et matériel directement lié à la privation de liberté ; </p>
-<p>Sur le préjudice matériel : </p>
-<p>Attendu que M. X... se prévaut d'une perte de chance d'avoir pu réussir son examen de fin de première année de capacité de droit, et demande le remboursement d'honoraires et de frais de déplacement exposés par son avocat pour obtenir sa remise en liberté ainsi que des frais supportés par sa famille, résidant à Toulouse, pour venir le voir à la maison d'arrêt de Gradignan ; </p>
-<p>Mais attendu que ce dernier chef de préjudice, qui n'a pas été personnellement subi par le requérant, n'est pas indemnisable au titre de l'article 149 du code de procédure pénale ; </p>
-<p>Que l'avocat général fait observer à juste titre que l'impossibilité de passer l'examen de fin de première année de capacité de droit est, compte tenu de la date de ce dernier, exclusivement imputable à une détention provisoire justifiée par la condamnation prononcée ; </p>
-<p>Attendu que les justificatifs des frais et honoraires d'avocat ne sont pas suffisamment détaillés pour permettre à la commission de les imputer à des prestations en relation avec la détention provisoire et avec la seule période indemnisable ; </p>
-<p>Qu'il y a lieu en conséquence de rejeter la demande de M. X... en indemnisation de son préjudice matériel ; </p>
-<p>Sur le préjudice moral : </p>
-<p>Attendu que pour solliciter une indemnité de 30 000 euros, M. X... se prévaut de son jeune âge (22 ans), de son absence d'incarcération antérieure et d'antécédents judiciaires, et de l'état de stress post traumatique avec humeur dépressive qu'il présente suite à son emprisonnement ; </p>
-<p>Mais attendu que les certificats médicaux produits par l'intéressé ne permettent pas de rattacher ses problèmes psychologiques de façon directe et exclusive à la détention ; </p>
-<p>Que si la séparation d'avec son milieu familial constitue un facteur aggravant de son préjudice moral, il n'en demeure pas moins que le choc d'une première incarcération se trouve considérablement atténué par le fait que la première année de détention est justifiée par la culpabilité de l'intéressé qui a été définitivement retenue pour une partie des faits poursuivis ; </p>
-<p>Qu'eu égard à l'ensemble de ces éléments et à la durée de la détention indemnisable (quatre-vingt treize jours) l'indemnité réparant intégralement le préjudice moral de M. X... doit être fixée à la somme de 10 000 euros ; </p>
-<p>Sur l'article 700 du nouveau code de procédure civile : </p>
-<p>Attendu que l'équité commande d'allouer à M. X... une somme de 1 500 euros à ce titre ; </p>
-<p>Par ces motifs : </p>
-<p>DONNE acte à l'agent judiciaire du Trésor du désistement de son recours ; </p>
-<p>DECLARE la requête de M. Kamel X... partiellement recevable ; </p>
-<p>ACCUEILLE partiellement son recours et, statuant à nouveau ; </p>
-<p>Lui ALLOUE les sommes de :</p>
-<p>-10 000 euros (dix mille euros) au titre du préjudice moral ;</p>
-<p>-1 500 euros (mille cinq cents euros) sur le fondement des dispositions de l'article 700 du nouveau code de procédure civile ; </p>
-<p>REJETTE la demande au titre du préjudice matériel ; </p>
-<p>LAISSE les dépens à la charge Trésor public ; </p>
-<p>Ainsi fait, jugé et prononcé en audience publique le 18 juin 2007 par le président de la commission nationale de réparation des détentions ; </p>
-<p>En foi de quoi la présente décision a été signée par le président, le rapporteur et le greffier présent lors des débats et du prononcé. </p>
-<p>Le président Le rapporteur M. Gueudet Mme Nési</p>
+<p>LA COUR DE CASSATION, CHAMBRE CRIMINELLE, a rendu l'arrêt suivant : </p>
+<p>Statuant sur le pourvoi formé par :
+
+- M. Jérôme X..., 
+
+contre l'arrêt de la cour d'appel de METZ, chambre correctionnelle, en date du 20 septembre 2013, qui, pour conduite en état d'ivresse manifeste en récidive et refus de se soumettre aux vérifications destinées à établir la preuve de l'état alcoolique, l'a condamné à six mois d'emprisonnement, dont trois mois avec sursis et mise à l'épreuve, et a constaté l'annulation de son permis de conduire ;
+La COUR, statuant après débats en l'audience publique du 25 novembre 2014 où étaient présents dans la formation prévue à l'article 567-1-1 du code de procédure pénale : M. Guérin, président, M. Monfort, conseiller rapporteur, M. Beauvais, conseiller de la chambre ;
+Greffier de chambre : Mme Leprey ;
+Sur le rapport de M. le conseiller MONFORT, les observations de la société civile professionnelle THOUIN-PALAT et BOUCARD, avocat en la Cour, et les conclusions de M. l'avocat général LAGAUCHE ;
+Vu le mémoire produit ;
+Attendu qu'il résulte de l'arrêt attaqué et des pièces de procédure que, le 12 octobre 2012, à 2h15, les fonctionnaires de police ont procédé à l'interpellation de M. X..., automobiliste dont la conduite apparaissait anormale ; que, constatant qu'il présentait des signes d'ivresse manifeste, les policiers l'ont soumis à un dépistage par éthylotest, qui s'est révélé positif ; que, placé en garde à vue, M. X... a refusé de se soumettre à l'épreuve de l'éthylomètre et de subir une prise de sang ; que, cité devant le tribunal correctionnel des chefs susvisés, il a été déclaré coupable ; que le prévenu et le ministère public ont relevé appel du jugement ;
+En cet état :
+Sur le premier moyen de cassation, pris de la violation des articles préliminaire, 63-1 et 593 du code de procédure pénale, défaut de motifs, manque de base légale, dénaturation des pièces du dossier ;
+"en ce que l'arrêt attaqué a rejeté l'exception de nullité tenant à la nullité de la garde à vue pour notification tardive des droits, a déclaré M. X... coupable des faits qui lui sont reprochés et a prononcé sur la répression ;
+"aux motifs que la garde à vue a débuté le 12 octobre 2012 à 2 heures 40 et les droits y afférents ont été notifiés le 12 octobre 2012 à 3 heures 15 ; que ce délai de 35 minutes correspond au retour au service de la patrouille accompagnée de M. X... ; qu'il n'y a donc pas eu de notification tardive des droits ;
+" 1°) alors que l'officier de police judiciaire ou, sous son contrôle, l'agent de police judiciaire, a le devoir de notifier immédiatement les droits attachés au placement en garde à vue ; que tout retard dans la mise en oeuvre de cette obligation porte nécessairement atteinte aux intérêts de la personne concernée ; que, pour écarter l'exception de nullité tenant à la nullité de la garde à vue pour notification tardive des droits, la cour d'appel a relevé que le délai de 35 minutes entre le début de la garde à vue et la notification des droits à M. X... correspondait au retour au service de la patrouille accompagnée de ce dernier ; qu'en statuant ainsi, par des motifs qui ne caractérisent pas l'impossibilité, pour l'officier de police judiciaire, de notifier immédiatement chacun de ses droits à la personne gardée à vue, la cour d'appel n'a pas légalement justifié sa décision au regard des textes et principes susvisés ;
+"2°) alors qu'en toute hypothèse, il résulte du procès-verbal du 12 octobre 2012, 3 heures 10, portant les mentions «nous trouvant au service» et «étant au service», que M. X... se trouvait déjà dans les locaux de police à ce moment-là ; qu'en retenant que la patrouille n'était revenue accompagnée de M. X... qu'à 3 heures 15, la cour d'appel a dénaturé le procès-verbal précité" ;
+Attendu que, pour écarter l'exception de nullité de la garde à vue, tirée de la notification tardive de ses droits à M. X..., l'arrêt relève que le délai de trente-cinq minutes qui s'est écoulé entre le début de la mesure de garde à vue, à 2 heures 40, et la notification des droits, à 3 heures 15, correspond au temps nécessaire à la patrouille de police, accompagnée de l'intéressé, pour se rendre au commissariat ;
+Attendu qu'en statuant ainsi, la cour d'appel a justifié sa décision au regard des dispositions légales visées au moyen ;
+D'où il suit que le moyen doit être écarté ;
+Sur le deuxième moyen de cassation, pris de la violation des articles préliminaire, 6 de la Convention européenne des droits de l'homme, 593 du code de procédure pénale, L. 234-4 à L. 234-8 du code de la route, défaut de motifs, manque de base légale, excès de pouvoir négatif ;
+"en ce que l'arrêt attaqué a rejeté l'exception de nullité tenant à la méconnaissance du droit de ne pas contribuer à sa propre incrimination, a déclaré M. X... coupable des faits qui lui sont reprochés et a prononcé sur la répression ;
+"aux motifs propres que «la défense argue que, placé en garde à vue, M. X... avait le droit de se taire et de ne pas participer à sa propre incrimination ; qu'elle en déduit qu'il ne peut lui être reproché d'avoir refusé de se soumettre aux vérifications tendant à établir la preuve de son état alcoolique ; que, d'une part, il ne ressort d'aucun élément de la procédure que M. X... a été condamné sur la base de ses seules déclarations ni que celles-ci aient été faites sous la contrainte ; que le droit de se taire lui a été notifié et que, par ailleurs, de manière constante, il conteste avoir refusé une prise de sang ; que d'autre part, ce moyen est inopérant s'agissant de la constatation d'une infraction prévue et réprimée par le code pénal» ;
+"et aux motifs adoptés que «M. X... a été placé en garde à vue à compter du 12 octobre 2012 à 2 heures 40 ; que ses droits lui ont été notifiés, conformément aux dispositions des articles 63-1 et 63-4-2 du code de procédure pénale ; que, notamment, son droit, lors de ses auditions, après avoir décliné son identité, de faire des déclarations, de répondre aux questions qui lui sont posées ou de se taire, lui a bien été notifié ; que, néanmoins, contrairement à ce que soutient la défense, ce droit ne lui permet que de garder le silence, et non de refuser de participer aux investigations relatives à la mesure de son taux d'alcoolémie ; que, précisément, il est certes impossible de contraindre un individu à se soumettre à la mesure par éthylomètre, et à plus forte raison encore à la prise de sang pour mesure d'un taux d'alcoolémie, cette dernière méthode constituant un acte médical invasif pour lequel le consentement de la personne est nécessaire ; que, néanmoins, le législateur a prévu qu'en cas de refus de se soumettre à ces investigations, une infraction, et précisément un délit, est constituée ; que cela est totalement distinct du droit de se taire accordé aux personnes placées en garde à vue au cours de leurs auditions ;
+"1°) alors que lorsqu'une incrimination prévue par le code pénal porte atteinte à un droit reconnu par un traité international, le juge doit écarter l'application de la législation interne ; qu'en retenant que le moyen tiré de la violation du droit de ne pas contribuer à sa propre incrimination doit être écarté dès lors qu'est en cause la constatation d'une infraction prévue et réprimée par le code pénal, sans rechercher comme elle y était invitée, si l'incrimination en droit interne du refus de se soumettre aux vérifications destinées à faire la preuve de l'état alcoolique n'était pas contraire aux exigences de l'article 6 de la Convention européenne des droits de l'homme, la cour d'appel a méconnu son office et a méconnu les textes et principes précités ;
+"2°) alors qu'il résulte de l'article L. 234-6 du code de la route que les vérifications destinées à établir la preuve de l'état alcoolique sont faites soit au moyen d'analyses et examens médicaux, cliniques et biologiques, soit au moyen d'un appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air expiré à la condition que cet appareil soit conforme à un type homologué ; que l'incrimination du refus de se soumettre à de telles vérifications, qui sont destinées à établir la preuve de l'état alcoolique d'un conducteur de véhicule afin de caractériser les infractions relatives à la conduite sous l'influence de l'alcool, porte atteinte au droit de ne pas contribuer à sa propre incrimination résultant des exigences de l'article 6 de la Convention européenne des droits de l'homme ; qu'en faisant application des dispositions l'article L.234-8 du code de la route, lesquelles sont incompatibles avec les exigences conventionnelles, la cour d'appel a méconnu les textes et principes susvisés" ;
+Attendu que, pour rejeter l'exception de nullité prise du non-respect du droit du prévenu de ne pas contribuer à sa propre incrimination, l'arrêt prononce par les motifs repris au moyen ;
+Attendu qu'en se déterminant ainsi, et dès lors que le droit au silence et celui de ne pas contribuer à sa propre incrimination ne s'étendent pas au recueil de données qu'il convient d'obtenir indépendamment de la volonté de la personne concernée, la cour d'appel n'a méconnu aucune des dispositions légales et conventionnelles visées au moyen ; 
+D'où il suit que le moyen ne saurait être admis ;
+Sur le troisième moyen de cassation, pris de la violation des articles préliminaire, 6 de la Convention européenne des droits de l'homme, 593 du code de procédure pénale, L. 234-1 à L. 234-8 du code de la route, défaut de motifs, manque de base légale, excès de pouvoir négatif ;
+"en ce que l'arrêt attaqué a déclaré M. X... coupable des faits qui lui sont reprochés et a prononcé sur la répression ;
+"aux motifs propres que la conduite en état d'ivresse manifeste est établie par les éléments relevés par les agents au moment du contrôle, à savoir que M. X... avait les yeux rouges, que ses propos étaient répétitifs et qu'il sentait fortement l'alcool ; qu'en outre, l'intéressé reconnaît avoir consommé 4 à 5 bières et devait, en outre, deux heures après la consommation de cet alcool, être encore en phase d'absorption selon les données médico-légales admises ; que M. X... reconnaît avoir refusé de souffler dans l'éthylomètre mais conteste avoir refusé une prise de sang ; qu'il ressort cependant du procès-verbal de renseignements que l'intéressé a non seulement maintenu son refus de se soumettre la vérification de l'état d'alcoolémie par éthylomètre mais qu'il a opposé un refus aux trois propositions qui lui étaient faites de recourir a un prélèvement sanguin ; qu'il n'y a aucune contradiction entre le procès-verbal de renseignements et le procès-verbal de saisine ; qu'en effet, le procès-verbal de saisine indique qu'à 2 heures 40, M. X... était invité à suivre les agents au service pour procéder à la vérification de son taux d'alcool et qu'invité à se soumettre à la vérification de son taux d'alcool au moyen de l'éthylomètre de service, il refusait catégoriquement bien qu'informé des conséquences de ce refus ; que le procès-verbal de renseignements constate le refus à trois reprises de M. X... de se soumettre aux vérifications destinées a faire la preuve d'un état alcoolique à l'aide d'un éthylomètre et qu'informé des conséquences de ce refus, il le maintenait ; que ce procès-verbal indique qu'il lui était également proposé a trois reprises la possibilité d'être soumis à un prélèvement sanguin et qu' il le refusait également ; qu'il apparait ainsi que les deux procès-verbaux décrivent dans la continuité les tentatives des agents de police de procéder à des opérations de vérification, en premier lieu par éthylomètre puis en second lieu par prélèvement sanguin et les refus réitérés de l'intéressé d'accomplir ces vérifications malgré les avertissements répétés des agents sur les conséquences de ce refus ; que ce refus réitéré est enfin tout à fait compatible avec le refus de sortir de sa cellule pour bénéficier d'un examen médical a l'hôpital ; qu'en conséquence, il convient de retenir la culpabilité de M. X... pour l'ensemble des faits objets de la poursuite ;
+"et aux motifs adoptés que le 12 octobre 2012, M. X... a fait l'objet d'un contrôle de police, du fait de sa conduite dangereuse, l'intéressé se déportant à plusieurs reprises sur la gauche puis brusquement sur la droite ; qu'au cours des opérations de contrôle, les policiers ont pu constater que M. X... présentait les signes de l'imprégnation alcoolique ; qu'après l'avoir soumis au dépistage par éthylotest qui s'est révélé positif, il a été invité à se soumettre à la mesure de son taux d'alcoolémie par éthylomètre, ce qu'il a refusé à plusieurs reprises ; qu'il a également refusé à trois reprises de se soumettre à une analyse sanguine, caractérisant l'infraction de refus de se soumettre aux vérifications de son taux d'alcoolémie ; que M. X... est en outre poursuivi pour des faits de conduite en état d'ivresse, en état de récidive légale ; que le comportement de l'intéressé, relevé par les policiers dans le cadre de leurs procès-verbaux permet de caractériser pleinement cette infraction ; qu'au cours de son audition, le prévenu a reconnu sciemment avoir refusé de se soumettre à la mesure de son taux d'alcoolémie par éthylomètre ; qu'au regard de ces éléments, il y a lieu de déclarer le prévenu coupable des faits qui lui sont reprochés ;
+"1°) alors qu'il résulte de l'article L. 234-6 du code de la route que les vérifications destinées à établir la preuve de l'état alcoolique sont faites soit au moyen d'analyses et examens médicaux, cliniques et biologiques, soit au moyen d'un appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air expiré à la condition que cet appareil soit conforme à un type homologué ; que l'incrimination du refus de se soumettre à de telles vérifications, qui sont destinées à établir la preuve de l'état alcoolique d'un conducteur de véhicule afin de caractériser les infractions relatives à la conduite sous l'influence de l'alcool, porte atteinte au droit de ne pas contribuer à sa propre incrimination résultant des exigences de l'article 6 de la Convention européenne des droits de l'homme ; qu'en faisant application des dispositions l'article L.234-8 du code de la route, lesquelles sont incompatibles avec les exigences conventionnelles, la cour d'appel a méconnu les textes et principes susvisés ;
+"2°) alors qu'en se bornant à retenir, pour juger que la conduite en état d'ivresse manifeste était établie, que M. X... avait les yeux rouges, que ses propos étaient répétitifs et qu'il sentait fortement l'alcool, la cour d'appel s'est prononcée par des motifs insuffisamment précis pour caractériser l'infraction de conduite en état d'ivresse manifeste, et n'a pas légalement justifié sa décision au regard des textes et principes susvisés ;
+"3°) alors qu'en retenant que M. X... reconnaissait avoir consommé 4 à 5 bières et «devait», en outre, deux heures après la consommation de cet alcool, être encore en phase d'absorption selon les données médico-légales admises, la cour d'appel s'est prononcée par une motivation hypothétique et n'a pas légalement justifié sa décision au regard des textes et principes susvisés" ; 
+Attendu que les énonciations de l'arrêt attaqué mettent la Cour de cassation en mesure de s'assurer que la cour d'appel a, sans insuffisance ni contradiction, répondu aux chefs péremptoires des conclusions dont elle était saisie et caractérisé en tous leurs éléments, tant matériels qu'intentionnel, les délits dont elle a déclaré le prévenu coupable ;
+D'où il suit que le moyen, qui se borne à remettre en question l'appréciation souveraine, par les juges du fond, des faits et circonstances de la cause, ainsi que des éléments de preuve contradictoirement débattus, ne saurait être admis ;
+Sur le quatrième moyen de cassation, pris de la violation des articles préliminaire, 132-19 du code pénal, 593 du code de procédure pénale, 6 de la Convention européenne des droits de l'homme, défaut de motifs, manque de base légale, excès de pouvoirs négatif ;
+"en ce que l'arrêt attaqué a déclaré M. X... coupable des faits qui lui sont reprochés et, prononçant sur la répression, de l'avoir condamné à une peine d'emprisonnement dont trois mois avec sursis assorti d'une mise à l'épreuve pendant deux ans avec obligation de soins ;
+"aux motifs que les dernières condamnations de M. X... concernent des délits routiers ; qu'il a pour ces délits bénéficié de peines alternatives à l'emprisonnement qui constituaient autant d'avertissements dont il n'a pas tenu compte ; que l'intéressé est de plus en état de récidive légale ; qu'il convient ainsi de sanctionner cette réitération de faits délictueux par une peine d'emprisonnement et de prévenir tout renouvellement en assortissant cette peine d'un sursis partiel avec mise à l'épreuve ; que cette mesure est à même d'assurer à travers un cadre contraignant que l'intéressé débute des soins en lien avec un alcoolisme chronique ; que la cour condamne en conséquence M. X... à une peine de six mois d'emprisonnement dont trois mois avec sursis assorti d'une mise à l'épreuve pendant deux ans avec obligation de soins ; que la cour ne peut en l'absence d'informations précises sur la situation socioprofessionnelle de l'intéressé aménager ab initio la partie ferme de la peine d'emprisonnement ; que la cour confirme la constatation par le premier juge de l'annulation du permis de conduire et l'interdiction d'en solliciter un nouveau avant un délai de six mois ;
+"1°) alors qu'en retenant que M. X... était en état de récidive légale sans mieux s'expliquer sur le premier terme de la récidive, la cour d'appel n'a pas légalement justifié sa décision au regard des textes et principes précités ;
+"2°) alors qu'en écartant toute possibilité d'aménager la partie ferme de la peine d'emprisonnement par le motif inopérant tiré de ce qu'elle ne disposait pas d'informations précises sur la situation socioprofessionnelle de l'intéressé, la cour d'appel, qui avait le pouvoir d'ordonner toute mesure d'instruction utile, n'a pas légalement justifié sa décision au regard des textes et principes précités" ;
+Attendu que, pour retenir la circonstance de récidive de la conduite en état d'ivresse, visée à la prévention à raison d'une condamnation prononcée le 3 mai 2012 par le tribunal correctionnel de Briey, et prononcer une peine d'emprisonnement pour partie sans sursis, l'arrêt et le jugement qu'il confirme relèvent que le casier judiciaire de M. X... porte trace de neuf condamnations, dont cinq pour des délits routiers, de sorte qu'il se trouve en état de récidive, s'agissant de la conduite en état d'ivresse ; que les juges retiennent que seule une peine d'emprisonnement en partie ferme permettra au prévenu de prendre la mesure de la gravité des faits reprochés, et d'éviter toute nouvelle réitération ; qu'ils ajoutent qu'en l'absence d'informations précises sur la situation socio-professionnelle du prévenu, il n'apparaît pas possible d'aménager ab initio la partie ferme de la peine d'emprisonnement prononcée ;
+Attendu qu'en l'état de ces énonciations, la cour d'appel a justifié sa décision ;
+Que, dès lors, le moyen ne saurait être accueilli ;
+Et attendu que l'arrêt est régulier en la forme ;
+REJETTE le pourvoi ; 
+Ainsi fait et jugé par la Cour de cassation, chambre criminelle, et prononcé par le président le six janvier deux mille quinze ;
+En foi de quoi le présent arrêt a été signé par le président, le rapporteur et le greffier de chambre.
+</p>
 
 </CONTENU>
 </BLOC_TEXTUEL>
 <SOMMAIRE>
-<SCT ID="1" TYPE="PRINCIPAL">REPARATION A RAISON D'UNE DETENTION - Bénéfice -  Cas
+<SCT ID="1" TYPE="PRINCIPAL">GARDE A VUE - Droits de la personne gardée à vue -  Droit de ne pas contribuer à sa propre incrimination -  Domaine d'application -  Exclusion -  Données recueillies indépendamment de la volonté de l'intéressé -  Cas -  Vérifications destinées à établir la preuve de l'état alcoolique
 </SCT>
-<SCT ID="1" TYPE="REFERENCE"/>
-<ANA ID="1">Lorsqu'un demandeur, placé en détention provisoire du chef de plusieurs infractions, ne bénéficie d'une décision de non-lieu, de relaxe ou d'acquittement que pour certaines d'entre elles, la compatibilité entre les infractions dont il a été déclaré coupable et la détention provisoire subie, s'apprécie en prenant en compte la durée maximale de la détention provisoire que la loi autorise pour l'infraction retenue</ANA>
-<SCT ID="2" TYPE="PRINCIPAL">REPARATION A RAISON D'UNE DETENTION - Préjudice -  Préjudice moral -  Appréciation -  Critères
+<SCT ID="1" TYPE="REFERENCE">CIRCULATION ROUTIERE -  Conduite sous l'empire d'un état alcoolique -  Etat alcoolique -  Constatation -  Vérifications médicales, cliniques et biologiques -  Refus de se soumettre aux vérifications -  Délit constitué -  Droit de ne pas contribuer à sa propre incrimination -  Application (non) CONVENTION EUROPEENNE DES DROITS DE L'HOMME -  Article 6 -  Droits de la défense -  Garde à vue -  Droits de la personne gardée à vue -  Droit de ne pas contribuer à sa propre incrimination -  Domaine d'application -  Exclusion -  Données recueillies indépendamment de la volonté de l'intéressé -  Cas -  Vérifications destinées à établir la preuve de l'état alcoolique DROITS DE LA DEFENSE -  Garde à vue -  Droits de la personne gardée à vue -  Droit de ne pas contribuer à sa propre incrimination -  Domaine d'application -  Exclusion -  Données recueillies indépendamment de la volonté de l'intéressé -  Cas -  Vérifications destinées à établir la preuve de l'état alcoolique
 </SCT>
-<SCT ID="2" TYPE="REFERENCE"/>
-<ANA ID="2">La circonstance selon laquelle la première année de détention est justifiée par la culpabilité de l'intéressé pour une partie des faits poursuivis constitue un facteur de diminution du choc carcéral</ANA>
+<ANA ID="1">Le droit au silence et celui de ne pas contribuer à sa propre incrimination ne s'étendent pas au recueil de données qu'il convient d'obtenir indépendamment de la volonté de la personne concernée.
+Justifie sa décision la cour d'appel qui déclare coupable du délit de refus de se soumettre aux vérifications destinées à établir la preuve de l'état alcoolique la personne qui a refusé de se soumettre à l'épreuve de l'éthylomètre et de subir une prise de sang en arguant de son droit de ne pas contribuer à sa propre incrimination</ANA>
 </SOMMAIRE>
 
 <CITATION_JP>
@@ -117,5 +112,7 @@ Audience publique du 21 mai 2007 Prononcé au 18 juin 2007 </p>
 </CONTENU>
 </CITATION_JP>
 </TEXTE>
-<LIENS/>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">article 6 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales</LIEN>
+</LIENS>
 </TEXTE_JURI_JUDI>
