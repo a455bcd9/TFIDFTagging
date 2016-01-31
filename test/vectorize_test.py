@@ -8,7 +8,7 @@ corpus_size = 6
 
 # Load the list of French stop words (mots vides)
 stopwordsfrench = []
-fileToRead = "stopwordsfrench.txt"
+fileToRead = "../stopwordsfrench.txt"
 with open(fileToRead) as infile:
     stopwordsfrench = [word.decode('utf-8').replace("\n", "") for word in infile]
 

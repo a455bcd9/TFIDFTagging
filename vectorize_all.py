@@ -2,6 +2,9 @@ import xml.etree.ElementTree as ET
 from sklearn.feature_extraction.text import TfidfVectorizer
 import numpy as np
 import glob
+from time import time
+
+t0 = time()
 
 # Corpus list
 corpus = []
@@ -13,12 +16,19 @@ with open(fileToRead) as infile:
     stopwordsfrench = [word.decode('utf-8').replace("\n", "") for word in infile]
 
 # Strings to replace
-replacements = {'<br clear="none"/>':'', '<br />':'', '<br/>':'', '<br>':'', 'l\'':'', 'd\'':'', 'c\'':'', 'j\'':'', 's\'':''}
+replacements = {'<br clear="none"/>':'', '<br />':'', '<br/>':'', '<br>':'', 'l\'':'', 'd\'':'', 'c\'':'', 'j\'':'', 's\'':'', 'quelqu\'un':'', 'aujourd\'hui':''}
 
 # Loop over the reference corpus (already cleaned)
 for filename in glob.glob('ref/clean/*.xml'):
     # Open file, read it replace string and write in a new file line by line
-    fileToWrite = filename
+    fileToRead = filename
+    fileToWrite = filename.split("/")[0] + '/clean/' + filename.split("/")[1]
+
+    with open(fileToRead) as infile, open(fileToWrite, 'w') as outfile:
+        for line in infile:
+            for src, target in replacements.iteritems():
+                line = line.replace(src, target)
+            outfile.write(line)
 
     # Parse XML
     tree = ET.parse(fileToWrite)
@@ -37,6 +47,8 @@ for filename in glob.glob('ref/clean/*.xml'):
         p = p + child.text
 
     corpus.append(p)
+
+reference_corpus_size = len(corpus)
 
 # Loop over the new corpus (need to be cleaned)
 for filename in glob.glob('new/*.xml'):
@@ -76,11 +88,11 @@ corpus_size = len(corpus)
 # min_df ?
 # token_pattern=u'\w{3,}' alphanumeric strings of at least 3 characters
 # token_pattern=r'\b\w+\b' bigram
-word_vectorizer = TfidfVectorizer(max_df=0.9, strip_accents='ascii', stop_words=stopwordsfrench, 
+word_vectorizer = TfidfVectorizer(max_df=0.4, strip_accents='ascii', stop_words=stopwordsfrench, 
     token_pattern=u'[a-zA-Z]{3,}')
-bigram_vectorizer = TfidfVectorizer(ngram_range=(1, 2), max_df=0.9, strip_accents='ascii', stop_words=stopwordsfrench, 
+bigram_vectorizer = TfidfVectorizer(ngram_range=(1, 2), max_df=0.5, strip_accents='ascii', stop_words=stopwordsfrench, 
     token_pattern=u'[a-zA-Z]{3,}')
-trigram_vectorizer = TfidfVectorizer(ngram_range=(1, 3), max_df=0.9, strip_accents='ascii', stop_words=stopwordsfrench, 
+trigram_vectorizer = TfidfVectorizer(ngram_range=(1, 3), max_df=0.5, strip_accents='ascii', stop_words=stopwordsfrench, 
     token_pattern=u'[a-zA-Z]{3,}')
 
 # Arrays of inversed frequencies
@@ -98,7 +110,7 @@ def max_indices(a,N):
     return np.argsort(a)[::-1][:N]
 
 # Number of features per text
-best_number = 5
+best_number = 10
 # List of features
 tags = []
 
@@ -106,34 +118,37 @@ tags = []
 choice = 1
 if choice == 1:
     # Loop over the corpus
-    for i in range(0,corpus_size):
+    for i in range(reference_corpus_size,corpus_size):
         # Indices of the best_number greatest frequencies of each text
         best = max_indices(word_array.toarray()[i],best_number)
         tags.append([])
         for j in range(0,best_number):
             # Feature names related to each index
-            tags[i].append(word_names[int(best[j])])
+            tags[i-reference_corpus_size].append(word_names[int(best[j])])
 elif choice == 2:
     # Loop over the corpus
-    for i in range(0,corpus_size):
+    for i in range(reference_corpus_size,corpus_size):
         # Indices of the best_number greatest frequencies of each text
         best = max_indices(bigram_array.toarray()[i],best_number)
         tags.append([])
         for j in range(0,best_number):
             # Feature names related to each index
-            tags[i].append(bigram_names[int(best[j])])
+            tags[i-reference_corpus_size].append(bigram_names[int(best[j])])
 elif choice == 3:
     # Loop over the corpus
-    for i in range(0,corpus_size):
+    for i in range(reference_corpus_size,corpus_size):
         # Indices of the best_number greatest frequencies of each text
         best = max_indices(trigram_array.toarray()[i],best_number)
         tags.append([])
         for j in range(0,best_number):
             # Feature names related to each index
-            tags[i].append(trigram_names[int(best[j])])
+            tags[i-reference_corpus_size].append(trigram_names[int(best[j])])
 else:
-    print("Fuck you!")
+    print("Damn!")
 
 # Print the features for the corpus
-for i in range(0,corpus_size):
+for i in range(0,corpus_size-reference_corpus_size):
     print tags[i]
+
+duration = time() - t0
+print("done in %fs" % duration)
