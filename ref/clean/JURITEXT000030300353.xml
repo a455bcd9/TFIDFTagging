@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_JUDI>
+<META>
+<META_COMMUN>
+<ID>JURITEXT000030300353</ID>
+<ANCIEN_ID/>
+<ORIGINE>JURI</ORIGINE>
+<URL>texte/juri/judi/JURI/TEXT/00/00/30/30/03/JURITEXT000030300353.xml</URL>
+<NATURE>ARRET</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Cour de cassation, criminelle, Chambre criminelle, 25 février 2015, 14-81.734, Publié au bulletin</TITRE>
+<DATE_DEC>2015-02-25</DATE_DEC>
+<JURIDICTION>Cour de cassation</JURIDICTION>
+<NUMERO>C1500289</NUMERO>
+<SOLUTION>Cassation et désignation de juridiction</SOLUTION>
+</META_JURI>
+<META_JURI_JUDI>
+<NUMEROS_AFFAIRES>
+<NUMERO_AFFAIRE>14-81734</NUMERO_AFFAIRE>
+</NUMEROS_AFFAIRES>
+<PUBLI_BULL publie="oui">Bulletin criminel 2015, n° 37</PUBLI_BULL>
+<FORMATION>CHAMBRE_CRIMINELLE</FORMATION>
+
+<FORM_DEC_ATT>Cour appel Amiens</FORM_DEC_ATT>
+<DATE_DEC_ATT>2014-01-29</DATE_DEC_ATT>
+<SIEGE_APPEL/>
+<JURI_PREM/>
+<LIEU_PREM/>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Guérin </PRESIDENT>
+<AVOCAT_GL>M. Gauthier</AVOCAT_GL>
+<AVOCATS>Me Foussard</AVOCATS>
+<RAPPORTEUR>Mme Chaubon</RAPPORTEUR>
+<ECLI>ECLI:FR:CCASS:2015:CR00289</ECLI>
+</META_JURI_JUDI>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU>LA COUR DE CASSATION, CHAMBRE CRIMINELLE, a rendu arrêt suivant : <p>Statuant sur le pourvoi formé par :</p>
+<p>
+- M. Jean-Paul 
+X...
+, </p>
+<p>
+contre arrêt de la cour appel AMIENS, chambre correctionnelle, en date du 29 janvier 2014, qui, dans la procédure suivie contre lui du chef de fraude fiscale, a prononcé sur les demandes de administration fiscale, partie civile ; </p>
+<p>
+La COUR, statuant après débats en audience publique du 14 janvier 2015 où étaient présents dans la formation prévue à article 567-1-1 du code de procédure pénale : M. Guérin, président, Mme Chaubon, conseiller rapporteur, Mme Nocquet, conseiller de la chambre ; </p>
+<p>Greffier de chambre : Mme Randouin ; </p>
+<p>Sur le rapport de Mme le conseiller CHAUBON, les observations de Me FOUSSARD, avocat en la Cour, et les conclusions de M. avocat général GAUTHIER ; </p>
+<p>Vu le mémoire personnel et le mémoire en défense produits ; </p>
+<p>Sur le moyen unique de cassation, pris de la violation de article 1745 du code général des impôts ; </p>
+<p>Vu ledit article ; </p>
+<p>Attendu que, selon ce texte, les juges qui prononcent la solidarité, mesure sans incidence sur la détermination des droits dus, ne peuvent en limiter les effets à une part des impôts fraudés et pénalités fiscales y afférentes ; </p>
+<p>Attendu que arrêt attaqué, après avoir définitivement condamné M. X..., gérant de la société First interim, pour des faits de fraude fiscale commis du 1er janvier 2007 au 31 juillet 2008, le déclare solidairement tenu, avec ladite société, au paiement des droits fraudés et des pénalités y afférentes, mais pour la seule période du 1er janvier au 31 juillet 2008 ; </p>
+<p>Mais attendu qu'en limitant ainsi les effets de la solidarité qu'elle a prononcée, la cour appel a méconnu le texte susvisé et le principe ci-dessus rappelé ; </p>
+<p>D'où il suit que la cassation est encourue ; </p>
+<p>Par ces motifs : </p>
+<p>CASSE ET ANNULE, en toutes ses dispositions, arrêt susvisé de la cour appel Amiens, en date du 29 janvier 2014, et pour qu'il soit à nouveau jugé, conformément à la loi, </p>
+<p>RENVOIE la cause et les parties devant la cour appel de Douai, à ce désignée par délibération spéciale prise en chambre du conseil ; </p>
+<p>ORDONNE impression du présent arrêt, sa transcription sur les registres du greffe de la cour appel Amiens et sa mention en marge ou à la suite de arrêt annulé ; </p>
+<p>Ainsi fait et jugé par la Cour de cassation, chambre criminelle, et prononcé par le président le vingt-cinq février deux mille quinze ; </p>
+<p>En foi de quoi le présent arrêt a été signé par le président, le rapporteur et le greffier de chambre.</p>
+
+</CONTENU>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="1" TYPE="PRINCIPAL">IMPOTS ET TAXES - Impôts directs et taxes assimilées -  Pénalités et peines -  Condamnations pécuniaires -  Solidarité -  Prononcé -  Etendue -  Limitation (non)
+</SCT>
+<SCT ID="1" TYPE="REFERENCE">SOLIDARITE -  Fraude fiscale -  Paiement de impôt fraudé et des pénalités fiscales -  Condamné et redevable de impôt -  Prononcé -  Etendue -  Limitation (non)
+</SCT>
+<ANA ID="1">En matière fiscale, les juges qui déclarent le prévenu solidairement tenu, avec la société dont il était le dirigeant, au paiement des droits fraudés et des pénalités y afférentes, ne peuvent limiter les effets de cette solidarité</ANA>
+</SOMMAIRE>
+
+<CITATION_JP>
+<CONTENU>Sur impossibilité de limiter étendue de la solidarité prévue par article 1745 du code général des impôts, à rapprocher :Crim., 27 octobre 1980, pourvoi n° 79-94.981, Bull. crim. 1980, n° 274 (rejet) ;Crim., 4 novembre 2004, pourvoi n° 03-87.503, Bull. crim. 2004, n° 270 (cassation) et arrêt cité ;Crim., 22 octobre 2008, pourvoi n° 07-88.134, Bull. crim. 2008, n° 214 (rejet)
+
+
+</CONTENU>
+</CITATION_JP>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">article 1745 du code général des impôts</LIEN>
+</LIENS>
+</TEXTE_JURI_JUDI>

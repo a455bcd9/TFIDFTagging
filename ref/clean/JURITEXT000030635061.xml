@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_JUDI>
+<META>
+<META_COMMUN>
+<ID>JURITEXT000030635061</ID>
+<ANCIEN_ID/>
+<ORIGINE>JURI</ORIGINE>
+<URL>texte/juri/judi/JURI/TEXT/00/00/30/63/50/JURITEXT000030635061.xml</URL>
+<NATURE>ARRET</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Cour de cassation, criminelle, Chambre criminelle, 20 mai 2015, 14-81.336, Publié au bulletin</TITRE>
+<DATE_DEC>2015-05-20</DATE_DEC>
+<JURIDICTION>Cour de cassation</JURIDICTION>
+<NUMERO>C1501566</NUMERO>
+<SOLUTION>Rejet</SOLUTION>
+</META_JURI>
+<META_JURI_JUDI>
+<NUMEROS_AFFAIRES>
+<NUMERO_AFFAIRE>14-81336</NUMERO_AFFAIRE>
+</NUMEROS_AFFAIRES>
+<PUBLI_BULL publie="oui"/>
+<FORMATION>CHAMBRE_CRIMINELLE</FORMATION>
+
+<FORM_DEC_ATT>Cour appel de Paris</FORM_DEC_ATT>
+<DATE_DEC_ATT>2014-02-05</DATE_DEC_ATT>
+<SIEGE_APPEL/>
+<JURI_PREM/>
+<LIEU_PREM/>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>M. Guérin </PRESIDENT>
+<AVOCAT_GL>M. Desportes</AVOCAT_GL>
+<AVOCATS>SCP Piwnica et Molinié</AVOCATS>
+<RAPPORTEUR>Mme Chaubon</RAPPORTEUR>
+<ECLI>ECLI:FR:CCASS:2015:CR01566</ECLI>
+</META_JURI_JUDI>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU>
+<p>LA COUR DE CASSATION, CHAMBRE CRIMINELLE, a rendu arrêt suivant : </p>
+<p>Statuant sur le pourvoi formé par :</p>
+<p>
+- M. Olivier X...,</p>
+<p>
+contre arrêt de la cour appel de PARIS, chambre 4-10, en date du 5 février 2014, qui, pour maintien frauduleux dans un système de traitement automatisé de données et vol, a condamné à 3 000 euros amende ;</p>
+<p>
+La COUR, statuant après débats en audience publique du 11 mars 2015 où étaient présents dans la formation prévue à article 567-1-1 du code de procédure pénale : M. Guérin, président, Mme Chaubon, conseiller rapporteur, Mme Nocquet, conseiller de la chambre ;</p>
+<p>Avocat général : M. Desportes ;</p>
+<p>Greffier de chambre : M. Bétron ;</p>
+<p>Sur le rapport de Mme le conseiller CHAUBON, les observations de la société civile professionnelle PIWNICA et MOLINIÉ, avocat en la Cour, et les conclusions de M. avocat général DESPORTES, avocat du demandeur a eu la parole en dernier ;</p>
+<p>Vu le mémoire produit ;</p>
+<p>Sur le premier moyen de cassation, pris de la violation des articles 323-1 et 323-5 du code pénal, 591 et 593 du code de procédure pénale, défaut de motifs, manque de base légale ;</p>
+<p>"en ce que arrêt infirmatif attaqué a déclaré M. X... coupable des faits qui lui sont reprochés de maintien frauduleux dans un système de traitement automatisé de données et a condamné à une amende délictuelle de 3 000 euros ;</p>
+<p>"aux motifs qu'il n'est pas établi par les pièces de procédure que le prévenu est rendu coupable accès frauduleux dans un système de traitement automatisé de données ; que accès qu'il ne conteste pas, lui a, en fait, été permis en raison une défaillance technique concernant les certificats existants dans le système, défaillance que reconnaît Agence nationale de sécurité sanitaire de alimentation, de environnement et du travail ; que dans ces conditions, infraction n'est pas caractérisée ; qu'il y aura lieu de confirmer le fondement de ce chef ; que pour ce qui concerne les faits commis de maintien frauduleux dans un système de traitement automatisé de données et de vol, il est constant que le système extranet de Agence nationale de sécurité sanitaire de alimentation de environnement et du travail n'est normalement accessible qu'avec un mot de passe dans le cadre une connexion sécurisée ; que le prévenu a parfaitement reconnu qu'après être arrivé par erreur au coeur de extranet de ANSES, avoir parcouru arborescence des répertoires et être remonté jusqu'à la page accueil, il avait constaté la présence de contrôles accès et la nécessité une authentification par identifiant et mot de passe ; qu'il est ainsi démontré qu'il avait conscience de son maintien irrégulier dans le système des traitement automatisé de données visitées où il a réalisé des opérations de téléchargement de données à évidence protégées, que les investigations ont démontré que ces données avaient été téléchargées avant être fixées sur différents supports et diffusées ensuite à des tiers, qu'il est en tout état de cause établi que M. X... a fait des copies de fichiers informatiques inaccessibles au public à des fins personnelles, à insu et contre le gré de son propriétaire ; que la culpabilité de M. X... sera donc retenu des chefs de maintien frauduleux dans un système de traitement automatisé de données et de fichiers informatiques au préjudice de Agence nationale de sécurité sanitaire de alimentation, de environnement et du travail (ANSES) ; que tenant compte de la gravité des faits commis, de absence antécédents judiciaires du prévenu et des éléments connus et sa personnalité, la cour prononcera à son encontre une peine délictuelle de 3 000 euros ; que la demande du prévenu de non inscription au casier judiciaire de la condamnation sera rejetée, ce dernier ne justifiant pas actuellement de la nécessité une telle dispense ;</p>
+<p>"et aux motifs enfin que lors de ses auditions par les enquêteurs, M. X... reconnaissait avoir récupéré via son VPN panaméen ensemble des données litigieuses stockées sur le serveur extranet de ANSES ; qu'il déclarait avoir découvert tous ces documents en libre accès après une recherche complexe sur le moteur de recherche Google ; que il affirmait être arrivé par erreur au coeur de extranet de ANSES, il reconnaissait néanmoins avoir parcouru arborescence des répertoires de celle-ci et être remonté jusqu'à la page accueil sur laquelle il avait constaté la prestance de contrôle accès (authentification par identifiant et mot de passe) ; qu'il précisait ne pas avoir diffusé archive de 7,7 Go qu'il avait généré et en avoir seulement fait une extraction de 250 mégaoctets qu'il avait utilisés pour argumenter son article sur la légionellose ; qu'il admettait avoir communiqué des documents à un autre rédacteur du site reflet info à savoir M. Y... identifié comme étant M. Pascal Z... ;</p>
+<p>"1°) alors que ne commet pas le délit de maintien frauduleux dans un système automatisé de données, internaute qui utilise un logiciel grand public pour pénétrer dans un système non protégé ; qu'en reprochant à M. X... de être maintenu frauduleusement dans le système automatisé de ANSES, après avoir admis que ce dernier avait pu accéder librement aux données non protégées qu'il avait ensuite téléchargées au moyen une recherche sur le site grand public Google, la cour appel a violé article L. 323-1 du code pénal ;</p>
+<p>"2°) alors que seul le maintien sans droit et en parfaite connaissance de cause de son absence de possibilité accès dans un système de traitement automatisé de données est frauduleux ; qu'en décidant que la seule découverte par M. X... de la présence un contrôle accès sur la page accueil suffisait à établir que ce dernier avait conscience de son maintien irrégulier dans le système à insu et contre le gré de son propriétaire, la cour appel a violé article 323-1 du code pénal ;</p>
+<p>"3°) alors qu'en absence de dispositif de protection des données, la maître du système doit manifester clairement et expressément manifester, par une mise en garde spéciale, sa volonté interdire ou de restreindre accès aux données ; qu'en déduisant de la seule présence un contrôle accès sur la page accueil du site de ANSES que M. X... était irrégulièrement maintenu dans le système contre le gré de son propriétaire, la cour appel a violé article 323-1 du code pénal ;</p>
+<p>"4°) alors que les informations contenues dans une partie un site non protégé sont réputées non confidentielles et publiées avec accord des intéressés ; qu'en décidant que la seule découverte par M. X... de la présence un contrôle accès sur la page accueil suffisait à établir que ce dernier avait conscience de son maintien irrégulier dans le système à insu et contre le gré de son propriétaire, la cour appel qui a statué par des motifs impropres à démontrer les documents rendus librement accessibles par ANSES et téléchargés par M. X..., étaient, eux aussi confidentiels, la cour appel n'a pas légalement justifié sa décision au regard de article 323-1 du code pénal ;</p>
+<p>"5°) alors qu'en reprochant à M. X... avoir « réalisé des opérations de téléchargement de données à évidence protégées » et « fait des copies de fichiers informatiques inaccessibles au public » après avoir admis que ce dernier avait pu accéder librement à ces données à la suite une défaillance avérée du système de protection de ANSES, la cour appel a entaché sa décision une contradiction de motifs" ;</p>
+<p>Sur le second moyen de cassation, pris de la violation des articles 111-4, 311-1, 311-3 et 311-14 1° 2° 3° 4° 6° du code pénal, 591 et 593 du code de procédure pénale, défaut de motifs, manque de base légale ;</p>
+<p>"en ce que arrêt infirmatif attaqué a déclaré M. X... coupable des faits qui lui sont reprochés de vol dans les termes de la prévention et a condamné à une amende délictuelle de 3 000 euros ;</p>
+<p>"aux motifs qu'il n'est pas établi par les pièces de procédure que le prévenu est rendu coupable accès frauduleux dans un système de traitement automatisé de données ; que accès qu'il ne conteste pas, lui a, en fait, été permis en raison une défaillance technique concernant les certificats existants dans le système, défaillance que reconnaît Agence nationale de sécurité sanitaire de alimentation, de environnement et du travail ; que dans ces conditions, infraction n'est pas caractérisée ; qu'il y aura lieu de confirmer le fondement de ce chef ; que pour ce qui concerne les faits commis de maintien frauduleux dans un système de traitement automatisé de données et de vol, il est constant que le système extranet de Agence nationale de sécurité sanitaire de alimentation de environnement et du travail n'est normalement accessible qu'avec un mot de passe dans le cadre une connexion sécurisée ; que le prévenu a parfaitement reconnu qu'après être arrivé par erreur au coeur de extranet de ANSES, avoir parcouru arborescence des répertoires et être remonté jusqu'à la page accueil, il avait constaté la présence de contrôles accès et la nécessité une authentification par identifiant et mot de passe ; qu'il est ainsi démontré qu'il avait conscience de son maintien irrégulier dans le système des traitement automatisé de données visitées où il a réalisé des opérations de téléchargement de données à évidence protégées, que les investigations ont démontré que ces données avaient été téléchargées avant être fixées sur différents supports et diffusées ensuite à des tiers, qu'il est en tout état de cause établi que M. X... a fait des copies de fichiers informatiques inaccessibles au public à des fins personnelles, à insu et contre le gré de son propriétaire ; que la culpabilité de M. X... sera donc retenu des chefs de maintien frauduleux dans un système de traitement automatisé de données et de fichiers informatiques au préjudice de Agence nationale de sécurité sanitaire de alimentation, de environnement et du travail (ANSES) ; que tenant compte de la gravité des faits commis, de absence antécédents judiciaires du prévenu et des éléments connus et sa personnalité, la cour prononcera à son encontre une peine délictuelle de 3 000 euros ; que la demande du prévenu de non inscription au casier judiciaire de la condamnation sera rejetée, ce dernier ne justifiant pas actuellement de la nécessité une telle dispense ;</p>
+<p>"et aux motifs enfin que lors de ses auditions par les enquêteurs, M. X... reconnaissait avoir récupéré via son VPN panaméen ensemble des données litigieuses stockées sur le serveur extranet de ANSES ; qu'il déclarait avoir découvert tous ces documents en libre accès après une recherche complexe sur le moteur de recherche Google ; que il affirmait être arrivé par erreur au coeur de extranet de ANSES, il reconnaissait néanmoins avoir parcouru arborescence des répertoires de celle-ci et être remonté jusqu'à la page accueil sur laquelle il avait constaté la prestance de contrôle accès (authentification par identifiant et mot de passe) ; qu'il précisait ne pas avoir diffusé archive de 7,7 Go qu'il avait généré et en avoir seulement fait une extraction de 250 mégaoctets qu'il avait utilisés pour argumenter son article sur la légionellose ; qu'il admettait avoir communiqué des documents à un autre rédacteur du site reflet info à savoir M. Y... identifié comme étant M. Pascal Z... (p. 4, alinéa 2) ;</p>
+<p>"1°) alors que la loi pénale et interprétation stricte ; que le vol est la soustraction frauduleuse de la chose autrui ; que le seul téléchargement de fichiers informatiques même à insu et contre la volonté de leur propriétaire, n'est pas constitutif de vol sauf lorsqu'il est accompagné de appropriation frauduleuse une chose appartenant à autrui ; qu'en se bornant à affirmer, pour caractériser élément matériel du vol de fichiers informatiques prétendument commis par M. X..., que celui-ci avait téléchargé les données litigieuses puis fixées celle-ci sur différents supports, la cour appel qui a statué par des motifs impropres à établir une dépossession quelconque de ANSES, n'a pas légalement justifié sa décision au regard des articles 111-4 et 311-1 du code pénal ;</p>
+<p>"2°) alors qu'en tout état de cause à défaut de soustraction intentionnelle de la chose autrui, le délit de vol n'est pas caractérisé en tous ses éléments ; qu'en déclarant M. X... coupable de vol de fichiers informatiques appartenant à ANSES, après avoir admis que ce dernier avait téléchargé sur le site de ANSES des données non protégées, et accessibles au moyen une simple recherche Google, ce qui excluait toute appréhension frauduleuse de ces documents, la cour appel a violé article L 311-1 du code pénal ;</p>
+<p>"3°) alors que la cour appel n'a pu, sans se contredire, pour déclarer M. X... coupable de vol, considérer un côté que les données téléchargées étaient accessibles au public et non protégées, et un autre côté, qu'elles étaient à évidence protégées et inaccessibles au public" ;</p>
+<p>Les moyens étant réunis ;</p>
+<p>Attendu qu'il résulte de arrêt attaqué et des pièces de procédure que M. X..., qui est introduit sur le site extranet de Agence nationale de sécurité sanitaire de alimentation, de environnement et du travail à la suite une défaillance technique, y est maintenu alors qu'il avait constaté existence un contrôle accès, et a téléchargé des données qu'il a fixées sur différents supports et diffusées à des tiers ; que, poursuivi des chefs  accès et de maintien frauduleux dans un système de traitement automatisé et de vol de données, il a été relaxé par le tribunal ; que le procureur de la république a interjeté appel ;</p>
+<p>Attendu que, pour déclarer le prévenu coupable de maintien frauduleux dans un tel système et vol, arrêt prononce par les motifs repris aux moyens ; </p>
+<p>Attendu qu'en état de ces énonciations, dépourvues insuffisance comme de contradiction, et où il résulte que M. X... est maintenu dans un système de traitement automatisé après avoir découvert que celui-ci était protégé et a soustrait des données qu'il a utilisées sans le consentement de leur propriétaire, la cour appel, qui a caractérisé les délits en tous leurs éléments, a justifié sa décision ;</p>
+<p>D'où il suit que les moyens doivent être écartés ;</p>
+<p>Et attendu que arrêt est régulier en la forme ;</p>
+<p>REJETTE le pourvoi ;</p>
+<p>Ainsi fait et jugé par la Cour de cassation, chambre criminelle, et prononcé par le président le vingt mai deux mille quinze ;</p>
+<p>En foi de quoi le présent arrêt a été signé par le président, le rapporteur et le greffier de chambre.</p>
+
+</CONTENU>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="1" TYPE="PRINCIPAL">INFORMATIQUE - Données -  Atteinte aux systèmes de traitement automatisé de données -  Maintien frauduleux -  Eléments constitutifs -  Accès à la suite une défaillance technique -  Maintien malgré le constat de existence un contrôle accès
+</SCT>
+<SCT ID="1" TYPE="REFERENCE">VOL -  Eléments constitutifs -  Elément intentionnel -  Soustraction frauduleuse -  Définition -  Téléchargement de données sans autorisation -  Connaissance du caractère protégé des données VOL -  Eléments constitutifs -  Elément matériel -  Soustraction -  Définition -  Téléchargement de données sans autorisation  INFORMATIQUE -  Données -  Vol -  Soustraction frauduleuse -  Définition -  Téléchargement sans autorisation -  Connaissance du caractère protégé des données
+</SCT>
+<ANA ID="1">Constitue le délit de maintien frauduleux dans un système de traitement automatisé de données le fait de se maintenir dans ce système après y être introduit à la suite une défaillance technique et avoir constaté existence un contrôle accès.
+Le téléchargement, effectué sans le consentement de leur propriétaire, de données que le prévenu savait protégées caractérise la soustraction frauduleuse constitutive du vol</ANA>
+</SOMMAIRE>
+
+<CITATION_JP>
+<CONTENU>Sur la sanction du maintien frauduleux dans un système de traitement automatisé de données à la suite une introduction régulière, à rapprocher :Crim., 3 octobre 2007, pourvoi n° 07-81.045, Bull. crim. 2007, n° 236 (cassation).
+Sur la soustraction frauduleuse de données, à rapprocher :Crim., 12 janvier 1989, pourvoi n° 87-82.265, Bull. crim. 1989, n° 14 (rejet) 
+
+
+</CONTENU>
+</CITATION_JP>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">articles 311-1 et 323-1 du code pénal</LIEN>
+</LIENS>
+</TEXTE_JURI_JUDI>

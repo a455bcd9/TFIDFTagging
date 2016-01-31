@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_JUDI>
+<META>
+<META_COMMUN>
+<ID>JURITEXT000030266100</ID>
+<ANCIEN_ID/>
+<ORIGINE>JURI</ORIGINE>
+<URL>texte/juri/judi/JURI/TEXT/00/00/30/26/61/JURITEXT000030266100.xml</URL>
+<NATURE>ARRET</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Cour de cassation, civile, Chambre civile 1, 18 février 2015, 14-50.040, Publié au bulletin</TITRE>
+<DATE_DEC>2015-02-18</DATE_DEC>
+<JURIDICTION>Cour de cassation</JURIDICTION>
+<NUMERO>11500170</NUMERO>
+<SOLUTION>Rejet</SOLUTION>
+</META_JURI>
+<META_JURI_JUDI>
+<NUMEROS_AFFAIRES>
+<NUMERO_AFFAIRE>14-50040</NUMERO_AFFAIRE>
+</NUMEROS_AFFAIRES>
+<PUBLI_BULL publie="oui"/>
+<FORMATION>CHAMBRE_CIVILE_1</FORMATION>
+
+<FORM_DEC_ATT>Cour appel de Toulouse</FORM_DEC_ATT>
+<DATE_DEC_ATT>2014-02-26</DATE_DEC_ATT>
+<SIEGE_APPEL/>
+<JURI_PREM/>
+<LIEU_PREM/>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>Mme Batut</PRESIDENT>
+<AVOCAT_GL>M. Drouet</AVOCAT_GL>
+<AVOCATS>SCP Waquet, Farge et Hazan</AVOCATS>
+<RAPPORTEUR>Mme Wallon</RAPPORTEUR>
+<ECLI>ECLI:FR:CCASS:2015:C100170</ECLI>
+</META_JURI_JUDI>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU>LA COUR DE CASSATION, PREMIÈRE CHAMBRE CIVILE, a rendu arrêt suivant : 
+
+
+Sur le moyen unique : 
+Attendu, selon arrêt attaqué (Toulouse, 26 février 2014), que le procureur général près la cour appel de Toulouse a formé un recours contre la décision rendue par le conseil de discipline à encontre de M. X..., avocat, par déclaration orale reçue par un greffier de cette cour appel ; 
+Attendu que le procureur général fait grief à arrêt de déclarer son recours irrecevable, alors, selon le moyen : 
+1°/ que les modalités exercice de la voie de recours édictées par les dispositions de article 16 du décret n° 91-1197 du 27 novembre 1991 organisant la profession avocat, qui ne sont prescrites ni à titre impératif ni à peine irrecevabilité, n'étant destinées qu'à donner date certaine au recours et à régler toute contestation sur ce point, la cour appel a violé le texte susvisé ; 
+2°/ que dès lors que appel a été formé dans le délai imparti, dans un document intitulé « déclaration appel », signé du magistrat et authentifié par le greffier qui a attesté avoir reçu et qui a enregistré, accompagné de la copie de la décision critiquée, ce qui ne laisse aucune équivoque sur la date du recours, sur sa nature, ou le droit agir et la qualité de autorité qui exerce, ou encore la fonction de agent assermenté auprès de qui il a été déposé, la seule circonstance que appel ait été reçu et dactylographié par une « simple greffière » apparaît sans conséquence sur sa validité ; que la cour appel a ainsi violé, par fausse application, article 16 du décret n° 91-1197 du 27 novembre 1991 ; 
+Mais attendu que, selon article 16 du décret n° 91-1197 du 27 novembre 1991, le recours devant la cour appel est formé par lettre recommandée avec demande avis de réception adressée au secrétariat-greffe ou remis contre récépissé au greffier en chef ; 
+Et attendu qu'ayant relevé que le recours avait été effectué par déclaration orale reçue par un greffier, la cour appel en a exactement déduit qu'il n'était pas recevable ; 
+D'où il suit que le moyen ne peut être accueilli ; 
+PAR CES MOTIFS : 
+REJETTE le pourvoi ; 
+Laisse les dépens à la charge du Trésor public ; 
+Ainsi fait et jugé par la Cour de cassation, première chambre civile, et prononcé par le président en son audience publique du dix-huit février deux mille quinze.
+</CONTENU>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="1" TYPE="PRINCIPAL">AVOCAT - Discipline -  Procédure -  Conseil de ordre -  Décision -  Recours -  Cour appel -  Recevabilité -  Condition
+</SCT>
+<SCT ID="1" TYPE="REFERENCE">APPEL CIVIL -  Recevabilité -  Conditions -  Acte appel -  Recours contre la décision rendue par le conseil de discipline à encontre un avocat APPEL CIVIL -  Acte appel -  Forme -  Conditions -  Recours contre la décision rendue par le conseil de discipline à encontre un avocat
+</SCT>
+<ANA ID="1">Le recours devant la cour appel, prévu à article 16 du décret n° 91-1197 du 27 novembre 1991, est formé par lettre recommandée avec demande avis de réception adressée au secrétariat-greffe ou remis contre récépissé au greffier en chef. Dès lors, n'est pas recevable le recours effectué par déclaration orale reçue par un greffier</ANA>
+</SOMMAIRE>
+
+<CITATION_JP>
+<CONTENU>
+
+
+
+</CONTENU>
+</CITATION_JP>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">article 16 du décret n° 91-1197 du 27 novembre 1991</LIEN>
+</LIENS>
+</TEXTE_JURI_JUDI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEXTE_JURI_JUDI>
+<META>
+<META_COMMUN>
+<ID>JURITEXT000030266299</ID>
+<ANCIEN_ID/>
+<ORIGINE>JURI</ORIGINE>
+<URL>texte/juri/judi/JURI/TEXT/00/00/30/26/62/JURITEXT000030266299.xml</URL>
+<NATURE>ARRET</NATURE>
+</META_COMMUN>
+<META_SPEC>
+<META_JURI>
+<TITRE>Cour de cassation, civile, Chambre civile 2, 19 février 2015, 14-12.226, Publié au bulletin</TITRE>
+<DATE_DEC>2015-02-19</DATE_DEC>
+<JURIDICTION>Cour de cassation</JURIDICTION>
+<NUMERO>21500279</NUMERO>
+<SOLUTION>Irrecevabilité</SOLUTION>
+</META_JURI>
+<META_JURI_JUDI>
+<NUMEROS_AFFAIRES>
+<NUMERO_AFFAIRE>14-12226</NUMERO_AFFAIRE>
+</NUMEROS_AFFAIRES>
+<PUBLI_BULL publie="oui"/>
+<FORMATION>CHAMBRE_CIVILE_2</FORMATION>
+
+<FORM_DEC_ATT>Cour appel de Nîmes</FORM_DEC_ATT>
+<DATE_DEC_ATT>2013-04-11</DATE_DEC_ATT>
+<SIEGE_APPEL/>
+<JURI_PREM/>
+<LIEU_PREM/>
+<DEMANDEUR/>
+<DEFENDEUR/>
+<PRESIDENT>Mme Flise </PRESIDENT>
+<AVOCAT_GL>M. Mucchielli</AVOCAT_GL>
+<AVOCATS>SCP Gatineau et Fattaccini, SCP Jean-Philippe Caston</AVOCATS>
+<RAPPORTEUR>M. Adida-Canac</RAPPORTEUR>
+<ECLI>ECLI:FR:CCASS:2015:C200279</ECLI>
+</META_JURI_JUDI>
+</META_SPEC>
+</META>
+<TEXTE>
+<BLOC_TEXTUEL>
+<CONTENU>LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, a rendu arrêt suivant : 
+
+
+ 	Sur la recevabilité du pourvoi, relevée office, après avis donné aux parties en application de article 1015 du code de procédure civile :
+ 	Vu les articles 606 , 607 et 608 du code de procédure civile, ensemble article R. 322-28 du code des procédures civiles exécution ;
+ 	Attendu que les jugements en dernier ressort qui ne tranchent pas pour partie le principal et ne mettent pas fin à instance ne peuvent être frappés un pourvoi en cassation indépendamment des jugements sur le fond que dans les cas spécifiés par la loi ;
+ 	Attendu, selon arrêt attaqué (Nîmes, 11 avril  2013), que sur des poursuites à fin de saisie immobilière exercées par la caisse régionale de Crédit agricole mutuel du Gard (la banque) à encontre de M. et Mme X..., adjudication du bien immobilier de ces derniers a été fixée à audience du 4 octobre 2012 par un jugement orientation, rendu le 7 juin 2012, contre lequel M. et Mme X... ont formé un pourvoi en cassation ; que par jugement du 4 octobre 2012, le juge de exécution a renvoyé audience adjudication au 31 janvier 2013 ;
+ 	Mais attendu que arrêt attaqué se borne, en confirmant le jugement, à renvoyer audience adjudication à une date qu'il fixe ;
+ 	D'où il suit que le pourvoi n'est pas recevable ;
+
+
+ 	PAR CES MOTIFS :
+ 	DECLARE le pourvoi IRRECEVABLE .
+ 	Condamne les époux X... aux dépens ;
+ 	Vu article 700 du code de procédure civile, rejette les demandes ;
+ 	Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé par le président en son audience publique du dix-neuf février deux mille quinze.
+
+</CONTENU>
+</BLOC_TEXTUEL>
+<SOMMAIRE>
+<SCT ID="1" TYPE="PRINCIPAL">CASSATION - Pourvoi -  Ouverture -  Exclusion -  Cas -  Saisie immobilière -  Adjudication -  Jugement reportant la date de audience de vente forcée
+</SCT>
+<SCT ID="1" TYPE="REFERENCE">CASSATION -  Pourvoi -  Ouverture -  Exclusion -  Cas -  Décision ne mettant pas fin à instance SAISIE IMMOBILIERE -  Adjudication -  Jugement -  Jugement reportant la date de audience de vente forcée -  Voies de recours -  Pourvoi en cassation -  Exclusion
+</SCT>
+<ANA ID="1">Il résulte des articles 606 à 608 du code de procédure civile et R. 322-28 du code des procédures civiles exécution que le pourvoi en cassation formé contre un jugement du juge de exécution se bornant à renvoyer audience adjudication à une date qu'il fixe n'est pas susceptible un pourvoi en cassation immédiat dès lors qu'il ne tranche pas pour partie le principal et ne met pas fin à instance</ANA>
+</SOMMAIRE>
+
+<CITATION_JP>
+<CONTENU>A rapprocher : 2e Civ., 8 janvier 2015, pourvoi n° 14-10.205, Bull. 2015, II, n° ??? (irrecevabilité)
+
+
+</CONTENU>
+</CITATION_JP>
+</TEXTE>
+<LIENS>
+<LIEN cidtexte="" datesignatexte="" id="" naturetexte="" nortexte="" num="" numtexte="" sens="source" typelien="CITATION">articles 606 à 608 du code de procédure civile ;  article R. 322-28 du code des procédures civiles exécution</LIEN>
+</LIENS>
+</TEXTE_JURI_JUDI>
