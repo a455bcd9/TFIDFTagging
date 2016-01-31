@@ -22,8 +22,12 @@ replacements = {'<br clear="none"/>':'', '<br />':'', '<br/>':'', '<br>':'', 'l\
 
 # Loop over the reference corpus (already cleaned)
 for filename in glob.glob('ref/clean/*.xml'):
+    # Open the file that has already been cleaned
+    fileToWrite = filename
+
+    # Normal procedure that is not necessary in thiscase
     # Open file, read it replace string and write in a new file line by line
-    fileToRead = filename
+    # fileToRead = filename
     # fileToWrite = filename.split("/")[0] + '/clean/' + filename.split("/")[1]
 
     # with open(fileToRead) as infile, open(fileToWrite, 'w') as outfile:
@@ -31,9 +35,10 @@ for filename in glob.glob('ref/clean/*.xml'):
     #         for src, target in replacements.iteritems():
     #             line = line.replace(src, target)
     #         outfile.write(line)
+    # End of the normal procedure
 
     # Parse XML
-    tree = ET.parse(fileToRead)
+    tree = ET.parse(fileToWrite)
 
     # Get the root of the XML
     root = tree.getroot()
