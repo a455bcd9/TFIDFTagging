@@ -87,7 +87,8 @@ sien
 son
 sont
 sous
-soyez	sujet
+soyez
+sujet
 sur
 ta
 tandis
@@ -105,9 +106,13 @@ vont
 votre
 vous
 vu
-ça
+ca
 etaient
 etat
 etions
 ete
 etre
+aux
+se
+un
+une

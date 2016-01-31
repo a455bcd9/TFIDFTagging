@@ -9,8 +9,9 @@ corpus_size = 6
 stopwordsfrench = []
 fileToRead = "stopwordsfrench.txt"
 with open(fileToRead) as infile:
-    for line in infile:
-        stopwordsfrench.append(line)
+    stopwordsfrench = [word.decode('utf-8').replace("\n", "") for word in infile]
+
+print(stopwordsfrench)
 
 # Strings to replace
 replacements = {'<br clear="none"/>':'', '<br />':'', '<br/>':'', '<br>':''}
@@ -48,11 +49,11 @@ for i in range(0,corpus_size):
 
 # max_df 0.5 ignore terms that have a document frequency strictly higher than the given threshold (corpus-specific stop words)
 # min_df ?
-word_vectorizer = TfidfVectorizer(max_df=0.5, strip_accents='ascii',stop_words=stopwordsfrench)
+word_vectorizer = TfidfVectorizer(max_df=0.9, strip_accents='ascii',stop_words=stopwordsfrench)
 bigram_vectorizer = TfidfVectorizer(ngram_range=(1, 2),
-    token_pattern=r'\b\w+\b', max_df=0.5, strip_accents='ascii',stop_words=stopwordsfrench)
+    token_pattern=r'\b\w+\b', max_df=0.9, strip_accents='ascii',stop_words=stopwordsfrench)
 trigram_vectorizer = TfidfVectorizer(ngram_range=(1, 3),
-    max_df=0.5, strip_accents='ascii',stop_words=stopwordsfrench)
+    max_df=0.9, strip_accents='ascii',stop_words=stopwordsfrench)
 
 # Arrays of inversed frequencies
 word_array = word_vectorizer.fit_transform(corpus)
@@ -74,7 +75,7 @@ best_number = 5
 tags = []
 
 # Words, bigrams or trigrams
-choice = 2
+choice = 1
 if choice == 1:
     # Loop over the corpus
     for i in range(0,corpus_size):
