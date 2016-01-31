@@ -18,36 +18,23 @@ p = ''
 for child in contenu:
     p = p + child.text
 
-# # Word vectorizer 1-gram
-# word_vectorizer = CountVectorizer(min_df=1, strip_accents='ascii')
-
-# # Bigram vectorizer 2-gram
-# bigram_vectorizer = CountVectorizer(ngram_range=(1, 2),
-#     token_pattern=r'\b\w+\b', min_df=1, strip_accents='ascii')
-
-# # Trigram vectorizer 3-gram
-# trigram_vectorizer = CountVectorizer(ngram_range=(1, 3), 
-#     min_df=1, strip_accents='ascii')
+corpus = []
+corpus_size = 4
+with open('juriSommaireClean.txt', 'r') as myfile:
+    data=myfile.read().replace('\n', '')
+with open('juriSommaireClean.txt', 'r') as myfile:
+    data=myfile.read().replace('\n', '')
+with open('juriSommaireClean.txt', 'r') as myfile:
+    data=myfile.read().replace('\n', '')
+with open('juriSommaireClean.txt', 'r') as myfile:
+    data=myfile.read().replace('\n', '')
 
 corpus = [
-    'This is the first document.',
+    data,
     'This is the second second document.',
     'And the third one.',
     'Is this the first document?',
     ]
-corpus_size = len(corpus)
-
-# Decompose a string
-# analyze_bigram = bigram_vectorizer.build_analyzer()
-# analyze_trigram = trigram_vectorizer.build_analyzer()
-
-# Tokens by alphabetical order
-# X = word_vectorizer.fit_transform(corpus)
-# print X.toarray()
-
-# transformer = TfidfTransformer()
-# tfidf = transformer.fit_transform(X)
-# print tfidf.toarray()
 
 #  Binary occurrence markers might offer better features: use the binary parameter of CountVectorizer
 
@@ -57,35 +44,35 @@ word_vectorizer = TfidfVectorizer(max_df=0.5, strip_accents='ascii')
 bigram_vectorizer = TfidfVectorizer(ngram_range=(1, 2),
     token_pattern=r'\b\w+\b', max_df=0.5, strip_accents='ascii')
 
+trigram_vectorizer = TfidfVectorizer(ngram_range=(1, 3),
+    max_df=0.5, strip_accents='ascii')
+
+# Arrays of inversed frequencies
 X_1 = word_vectorizer.fit_transform(corpus)
 X_2 = bigram_vectorizer.fit_transform(corpus)
-# print X_1.toarray()
-# print X_2.toarray()
+X_3 = trigram_vectorizer.fit_transform(corpus)
 
-names = word_vectorizer.get_feature_names()
+# List of features (words, bigrams or trigrams)
+word_names = word_vectorizer.get_feature_names()
 bigram_names = bigram_vectorizer.get_feature_names()
-# print names
-# print bigram_names
-
-# Numpy array
-# X_1_np = np.array(X_1)
-# X_2_np = np.array(X_2)
+trigram_names = trigram_vectorizer.get_feature_names()
 
 def max_indices(a,N):
     return np.argsort(a)[::-1][:N]
 
+# Number of features per text
 best_number = 2
+# List of features
 tags = []
 
+# Loop over the corpus
 for i in range(0,corpus_size):
+    # Indices of the best_number greatest frequencies of each text
     best = max_indices(X_1.toarray()[i],best_number)
     tags.append([])
     for j in range(0,best_number):
-        tags[i].append(names[int(best[j])])
+        # Feature names related to each index
+        tags[i].append(word_names[int(best[j])])
 
+# Print the features for the corpus
 print tags
-
-# ch2 = SelectKBest(chi2, k=best_number)
-# X_train = ch2.fit_transform(X_train, y_train)
-# X_test = ch2.transform(X_test)
-# feature_names = [feature_names[i] for i in ch2.get_support(indices=True)]
