@@ -10,7 +10,7 @@ https://en.wikipedia.org/wiki/Tf%E2%80%93idf
 Parameters are:
 * Input files
 * Desired number of tags/features for each text (variable ```best_number```)
-* Maximal size of the tags: 1 (words), 2 (words or bigrams), or 3 (words, bigrams, or trigrams) (variable ```choice```)
+* Maximal size of the tags: 1 (words), 2 (words or bigrams), or 3 (words, bigrams, or trigrams) (variable ```max_gram```)
 
 Speed:
-* If 900 files in ```ref``` and 100 files in ```new``` then it takes about 100 seconds to tag all the new files, which means about 1 s per file.
+* If 900 files in ```ref``` and 100 files in ```new``` then it takes about 1 second to tag all the new files, which means about 0.01 s per file.

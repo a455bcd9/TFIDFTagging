@@ -4,9 +4,10 @@ import numpy as np
 import glob
 from time import time
 
+# For timer
 t0 = time()
 
-# Corpus list
+# Create the corpus list
 corpus = []
 
 # Load the list of French stop words (mots vides)
@@ -16,22 +17,23 @@ with open(fileToRead) as infile:
     stopwordsfrench = [word.decode('utf-8').replace("\n", "") for word in infile]
 
 # Strings to replace
-replacements = {'<br clear="none"/>':'', '<br />':'', '<br/>':'', '<br>':'', 'l\'':'', 'd\'':'', 'c\'':'', 'j\'':'', 's\'':'', 'quelqu\'un':'', 'aujourd\'hui':''}
+replacements = {'<br clear="none"/>':'', '<br />':'', '<br/>':'', '<br>':'', 'l\'':'', 'd\'':'', 'c\'':'', 
+    'j\'':'', 's\'':'', 'quelqu\'un':'', 'aujourd\'hui':''}
 
 # Loop over the reference corpus (already cleaned)
 for filename in glob.glob('ref/clean/*.xml'):
     # Open file, read it replace string and write in a new file line by line
     fileToRead = filename
-    fileToWrite = filename.split("/")[0] + '/clean/' + filename.split("/")[1]
+    # fileToWrite = filename.split("/")[0] + '/clean/' + filename.split("/")[1]
 
-    with open(fileToRead) as infile, open(fileToWrite, 'w') as outfile:
-        for line in infile:
-            for src, target in replacements.iteritems():
-                line = line.replace(src, target)
-            outfile.write(line)
+    # with open(fileToRead) as infile, open(fileToWrite, 'w') as outfile:
+    #     for line in infile:
+    #         for src, target in replacements.iteritems():
+    #             line = line.replace(src, target)
+    #         outfile.write(line)
 
     # Parse XML
-    tree = ET.parse(fileToWrite)
+    tree = ET.parse(fileToRead)
 
     # Get the root of the XML
     root = tree.getroot()
@@ -46,8 +48,10 @@ for filename in glob.glob('ref/clean/*.xml'):
     for child in contenu:
         p = p + child.text
 
+    # Add new text to the corpus
     corpus.append(p)
 
+# Size of the reference corpus
 reference_corpus_size = len(corpus)
 
 # Loop over the new corpus (need to be cleaned)
@@ -78,14 +82,16 @@ for filename in glob.glob('new/*.xml'):
     for child in contenu:
         p = p + child.text
 
+    # Add new text to the corpus
     corpus.append(p)
 
+# Total size of the corpus: reference + new texts
 corpus_size = len(corpus)
 
 #  Binary occurrence markers might offer better features: use the binary parameter of CountVectorizer
 
-# max_df 0.5 ignore terms that have a document frequency strictly higher than the given threshold (corpus-specific stop words)
-# min_df ?
+# max_df: ignore terms that have a document frequency strictly higher than the given threshold (corpus-specific stop words)
+# min_df: ignore terms that have a document frequency strictly lower than the given threshold
 # token_pattern=u'\w{3,}' alphanumeric strings of at least 3 characters
 # token_pattern=r'\b\w+\b' bigram
 word_vectorizer = TfidfVectorizer(max_df=0.4, strip_accents='ascii', stop_words=stopwordsfrench, 
@@ -94,16 +100,6 @@ bigram_vectorizer = TfidfVectorizer(ngram_range=(1, 2), max_df=0.5, strip_accent
     token_pattern=u'[a-zA-Z]{3,}')
 trigram_vectorizer = TfidfVectorizer(ngram_range=(1, 3), max_df=0.5, strip_accents='ascii', stop_words=stopwordsfrench, 
     token_pattern=u'[a-zA-Z]{3,}')
-
-# Arrays of inversed frequencies
-word_array = word_vectorizer.fit_transform(corpus)
-bigram_array = bigram_vectorizer.fit_transform(corpus)
-trigram_array = trigram_vectorizer.fit_transform(corpus)
-
-# List of features (words, bigrams or trigrams)
-word_names = word_vectorizer.get_feature_names()
-bigram_names = bigram_vectorizer.get_feature_names()
-trigram_names = trigram_vectorizer.get_feature_names()
 
 # max_indices return the indices of the N greatest elements of array a
 def max_indices(a,N):
@@ -115,36 +111,36 @@ best_number = 10
 tags = []
 
 # Words, bigrams or trigrams
-choice = 1
-if choice == 1:
-    # Loop over the corpus
-    for i in range(reference_corpus_size,corpus_size):
-        # Indices of the best_number greatest frequencies of each text
-        best = max_indices(word_array.toarray()[i],best_number)
-        tags.append([])
-        for j in range(0,best_number):
-            # Feature names related to each index
-            tags[i-reference_corpus_size].append(word_names[int(best[j])])
-elif choice == 2:
-    # Loop over the corpus
-    for i in range(reference_corpus_size,corpus_size):
-        # Indices of the best_number greatest frequencies of each text
-        best = max_indices(bigram_array.toarray()[i],best_number)
-        tags.append([])
-        for j in range(0,best_number):
-            # Feature names related to each index
-            tags[i-reference_corpus_size].append(bigram_names[int(best[j])])
-elif choice == 3:
-    # Loop over the corpus
-    for i in range(reference_corpus_size,corpus_size):
-        # Indices of the best_number greatest frequencies of each text
-        best = max_indices(trigram_array.toarray()[i],best_number)
-        tags.append([])
-        for j in range(0,best_number):
-            # Feature names related to each index
-            tags[i-reference_corpus_size].append(trigram_names[int(best[j])])
+max_gram = 1
+if max_gram == 1:
+    # Arrays of inversed frequencies
+    freq = word_vectorizer.fit_transform(corpus)
+    # List of features (words, bigrams or trigrams)
+    feature_names = word_vectorizer.get_feature_names()
+elif max_gram == 2:
+    # Arrays of inversed frequencies
+    freq = bigram_vectorizer.fit_transform(corpus)
+    # List of features (words, bigrams or trigrams)
+    feature_names = bigram_vectorizer.get_feature_names()
+elif max_gram == 3:
+    # Arrays of inversed frequencies
+    freq = trigram_vectorizer.fit_transform(corpus)
+    # List of features (words, bigrams or trigrams)
+    feature_names = trigram_vectorizer.get_feature_names()
 else:
-    print("Damn!")
+    print("Choose a max_gram!")
+
+if (1 <= max_gram <= 3):
+    # Loop over the corpus
+    for i in range(reference_corpus_size,corpus_size):
+        # Indices of the best_number greatest frequencies of each text
+        best = max_indices(freq.toarray()[i],best_number)
+        tags.append([])
+        for j in range(0,best_number):
+            # Feature names related to each index
+            tags[i-reference_corpus_size].append(feature_names[int(best[j])])
+else:
+    print("Choose a max_gram!")
 
 # Print the features for the corpus
 for i in range(0,corpus_size-reference_corpus_size):
